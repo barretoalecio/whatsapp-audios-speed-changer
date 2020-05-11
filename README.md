@@ -1,6 +1,6 @@
 # Audio speed changer for whatsapp web (CHROME)
 
-**This extension was developed using pure JavaScript!.**
+**This extension was developed using pure JavaScript!**
 
 ## Description
 
