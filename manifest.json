@@ -1,0 +1,18 @@
+{
+    "manifest_version": 2,
+    "name": "WhatsAppAudiosSpeedChanger",
+    "version": "1.0",
+    "content_scripts": [
+        {
+            "matches": [
+                "https://web.whatsapp.com/"
+            ],
+            "css": [
+                "styles/style.css"
+            ],
+            "js": [
+                "scripts/index.js"
+            ]
+        }
+    ]
+}

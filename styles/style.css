@@ -1,0 +1,22 @@
+customButton.change-speed {
+    margin: 4px;
+    padding: 4px;
+  
+    border: 1px solid transparent;
+    border-radius: 10px;
+  
+    background: transparent;
+    color: #919191;
+  
+    font-weight: bold;
+    text-align: center;
+}
+customButton.change-speed:hover {
+    border: 1px solid #919191;
+}
+  
+customButton.clicked {
+    background: #919191;
+    color: #ededed;
+    border: 0.5px solid #919191;
+}
