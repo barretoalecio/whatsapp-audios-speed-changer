@@ -2,7 +2,7 @@
 
 **This extension was developed using pure JavaScript!.**
 
-## Proposta do Projeto
+## Description
 
 This is an extension developed for the browser (Google Chrome) using pure JavaScript. This feature has as main objective to facilitate and streamline the lives of people who, like me, receive several minutes of audios through the whatsapp application. Having the option to speed up the audio by 1.5x and also 2.0x, and of course having the option to return to the standard playback speed. 
 
